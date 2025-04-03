@@ -166,3 +166,4 @@ eval_env/data/**
 eval_env/pretrained_models/**
 eval_env/tmp/**
 
+/model_zoo
