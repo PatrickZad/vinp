@@ -162,8 +162,8 @@ dmypy.json
 *.ods
 *EF.md
 
-eval_env/data/**
-eval_env/pretrained_models/**
-eval_env/tmp/**
+eval_env/ieve/data/**
+eval_env/ieve/pretrained_models/**
+eval_env/ieve/tmp/**
 
 /model_zoo
